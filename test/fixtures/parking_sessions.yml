@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  vehicle: one
+  entry_time: 2026-10-06 16:04:43
+  exit_time: 2026-10-06 16:04:43
+  status: MyString
+  amount: 9.99
+
+two:
+  vehicle: two
+  entry_time: 2026-10-06 16:04:43
+  exit_time: 2026-10-06 16:04:43
+  status: MyString
+  amount: 9.99

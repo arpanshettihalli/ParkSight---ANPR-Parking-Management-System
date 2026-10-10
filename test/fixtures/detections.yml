@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  parking_session: one
+  plate_number: MyString
+  confidence: 1.5
+  detected_at: 2026-10-06 16:07:09
+
+two:
+  parking_session: two
+  plate_number: MyString
+  confidence: 1.5
+  detected_at: 2026-10-06 16:07:09
